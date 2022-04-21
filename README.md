@@ -2,6 +2,15 @@
 
 <p align="justify">
   Cryptography foundations inbuilt in the python language while developing their own encryption software using multiple hashing techniques. In this project I use python’s hashlib library to use its SHA256 and MD5 algorithms.
+  
+For this project I use the <a href="https://www.anaconda.com/">Anaconda Prompt</a>.
+Installation of the packages:
+  Windows User:
+1. On the console type **pip install simple-crypt --no-dependencies** and press enter.
+2. On the console type **pip install pycryptodome** and press enter.
+  
+ Mac User:
+1. type **pip install simple-crypt** and press enter
 
 Goal:
 ● Study the Encryption and Decryption Algorithms and create a console based application to demonstrate the encryption and decryption process.
